@@ -1,0 +1,47 @@
+Terminal:-
+#1) write:- npx create-react-app client(for frontend)
+   # wait for creation of folder
+#2) write:- cd client   ------ALSO for running server---------
+#3) npm start-->runs script in package.json--->ye command app.js file ko run karegi
+#4) main file= app.js--> ab isme cahnges karte raho apne aap browser mein changes visible honge
+$5) editor component bnaya src folder mein and import kiya app.js mein
+////////////////////////FOR start   go to  cd client-->npm start///////////////////////
+
+
+6) stop at 12min of video -1 at 9:52 AM 8/3/2022
+7)  quill se css import karna hai-- in jsx use import statement//////  import quill/dist
+8) initiailse quill --> useEfffect
+9) making quill object -->initialise it and get the editor
+10) for use of all fn -->add  toolbar as third argument in Quill also customizable --> for more options here used
+11) apply some CSS  from styled    -->use styled 
+12) apply css on the editor in app.css part by taking --> conatiner and q1toolbar class 
+13)//////*******2nd video*****/////
+14) Saving on server side
+15)///Doing all work in Server folder now
+16)install nodeon in server folder 
+17)Make server put them in setQuill and setServer
+18) detect the changes by user in the server end
+19)////////////////////////FOR start   go to  cd server-->npm start///////////////////////
+
+20) username :RishabhJain    Password:R2002Jain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
